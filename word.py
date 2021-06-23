@@ -1,1 +1,1 @@
-words = ['study', 'code',  'project', 'read', 'debug']
+word_list = ['study', 'code',  'project', 'read', 'debug']
